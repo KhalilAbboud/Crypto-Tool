@@ -1,7 +1,7 @@
-# Crypto Web App
+# Crypto Web App Assignement eh
 
-## Features
-- Encrypt text using Fernet
+## STuff
+- Encrypt text using Fernet Crypto Lib
 - Decrypt encrypted messages
 - SHA-256 hashing
 - Hash comparison
@@ -10,13 +10,8 @@
 ```bash
 pip install -r requirements.txt
 python app.py
+or py 3.1x app.py
 
-
----
-
-### 2. Create `requirements.txt`
-
-Create file:
-
-```text id="r3"
-requirements.txt
+and load the http website
+```
+adios
